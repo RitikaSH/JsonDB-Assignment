@@ -16,7 +16,8 @@
 # Release History Version : 1.0
 
 # Uses :
-a. Dynamic Web Applications.
-b. Key-Value databases use.
-c. Live working HTML templates.
-d. Real time application for data analytics.
+
+- Dynamic Web Applications.
+- Key-Value databases use.
+- Live working HTML templates.
+- Real time application for data analytics.
